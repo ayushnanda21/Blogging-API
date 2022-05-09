@@ -8,19 +8,14 @@ This repository managed based on forked pull request strategy
 
 ```sh
 # Fort this repository to yours.
-$ git clone https://github.com/ayushnanda21/Integration-RazorPay [YOUR_REPOSITORY]
-$ cd Integration-RazorPay
+$ git clone https://github.com/ayushnanda21/Blogging-API [YOUR_REPOSITORY]
+$ cd Blogging-API
 
-# Install npm packages and start this project in backend
-$ cd backend 
+# Install npm packages and start this project 
 $ npm install 
 $ npm init -y
-$ nodemon server.js
+$ node index.js
 
-# Install npm packages and start this project in frontend
-$ cd frontend
-$ npm install 
-$ npm start
 
 
 # (Working...)
